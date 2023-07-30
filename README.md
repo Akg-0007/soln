@@ -1,4 +1,10 @@
-live link : https://64c674fdce1ad70ebf7f7ce7--genuine-chebakia-cd6788.netlify.app/
+Features :
+1. Search
+2. Categorize / Filter
+3. Update
+4. Product Details
+
+live link: https://64c674fdce1ad70ebf7f7ce7--genuine-chebakia-cd6788.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
